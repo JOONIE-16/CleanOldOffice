@@ -7,4 +7,4 @@ A script on python and powershell to delete all old versions of Microsoft Office
 
 ## Indexing
 
-<a href="https://deepwiki.com/JOONIE-16/CleanOldOffice"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/JOONIE-16/CleanOldOffice)
